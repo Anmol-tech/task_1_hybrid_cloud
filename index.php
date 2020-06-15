@@ -9,7 +9,7 @@
     
 <?php
 
-echo 'ipconfig';
+echo `ipconfig`;
 
 ?>
 </body>
